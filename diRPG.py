@@ -25,3 +25,4 @@ seed = i
 # best to start a list here and map to it with a function for randomizing
 # the room contents for each room
 rooms = [range(0,i)]
+#farts 
